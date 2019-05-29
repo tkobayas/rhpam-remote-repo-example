@@ -1,6 +1,6 @@
 package com.myspace.proj1;
 
-rule "helloX"
+rule "helloXX"
 when
   $s : String()
 then
