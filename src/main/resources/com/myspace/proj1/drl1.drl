@@ -4,5 +4,5 @@ rule "helloXX"
 when
   $s : String()
 then
-  System.out.println("hello, " + $s);
+  System.out.println("hello,xx " + $s);
 end
